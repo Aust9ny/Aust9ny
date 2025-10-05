@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend Frameworks**
 
-- 📫 How to reach me **tars222333@gmail.com**
+- 📫 How to reach me **sippakorn.kan1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
